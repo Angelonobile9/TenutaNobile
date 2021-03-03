@@ -1,3 +1,4 @@
+
 $("#mainNav").sticky();
 
 $("#about").hide();
