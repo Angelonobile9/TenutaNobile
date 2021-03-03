@@ -225,8 +225,25 @@ p {
   font-size: 1.2rem;
 }
 
+#contatti .mb-0 a {
+  color: #000;
+}
+
 .footer {
   background-color: rgba(21, 64, 24, 0.9);
+}
+
+.footer a {
+  color: #000;
+}
+
+.footer ul {
+  list-style-type: none;
+  padding: 1px;
+}
+
+.footer ul li {
+  display: inline-block;
 }
 
 .text-primary {
